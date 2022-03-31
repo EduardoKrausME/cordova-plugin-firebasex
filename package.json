@@ -38,6 +38,10 @@
     "plist": "^3.0.1",
     "xcode": "^3.0.1",
     "xml-js": "^1.6.11",
-    "semver": "^7.3.2"
+    "semver": "^7.3.2",
+    "unorm": "1.6.0",
+    "underscores": "0.0.2",
+    "plist": "3.0.5",
+    "underscore": "1.13.2"
   }
 }
