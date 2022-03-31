@@ -42,5 +42,9 @@
     "unorm": "1.6.0",
     "underscore": "1.13.2",
     "underscores": "0.0.2"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1",
+    "webpack": "^3.0.0"
   }
 }
